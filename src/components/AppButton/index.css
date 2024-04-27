@@ -1,0 +1,17 @@
+button {
+    padding: 12px 20px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    background: #000000;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: 'DM Sans';
+    width: 202px;
+}
+  
+  button.secondary {
+    background: none;
+    border: 1px solid #000000;
+    color: #000000;
+  }
